@@ -12,7 +12,6 @@ type
   { TForm1 }
 
   TForm1 = class(TForm)
-    Button0: TButton;
     Button1: TButton;
     Edit1:   TEdit;
     Edit2:   TEdit;
