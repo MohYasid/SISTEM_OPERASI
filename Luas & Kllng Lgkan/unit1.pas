@@ -14,6 +14,7 @@ type
   TForm1 = class(TForm)
     Buttoton; n0: TBut
     Button1: TButton;
+    Button2: TButton;
     Button3: TButton;
     Edit1:   TEdit;
     Edit2:   TEdit;
