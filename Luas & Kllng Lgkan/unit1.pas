@@ -16,7 +16,7 @@ type
     Button1: TButton;
     Button2: TButton;
     Button3: TButton;
-    Button5: TButton;
+    Button4: TButton;
     Edit1:   TEdit;
     Edit2:   TEdit;
     Label1:  TLabel;
